@@ -1,0 +1,1 @@
+Some information inserted in order to check GitHub version control. - Entry1 - version1
